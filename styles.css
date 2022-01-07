@@ -1,0 +1,280 @@
+#interface-first {
+
+    background: hsl(0, 0%, 100%);
+    height: 896px;
+    width: 414px;
+    display: inline-block;
+    position: relative;
+
+}
+
+#number-paragraph {
+
+    font-size: 15px;
+    line-height: 18px;
+    text-align: left;
+    letter-spacing: -0.333333px;
+    color: #000000;
+    margin: 14px 338px 864px 21.33px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+
+}
+
+#battery-capacity {
+
+    background: #000000;
+    border-radius: 1.33333px;
+    height: 7.333333492279053px;
+    width: 18px;
+    top: 19px;
+    left: 377px;
+}
+
+#battery-border {
+
+    height: 11.333333015441895px;
+    width: 22px;
+    border-radius: 2.6666667461395264px;
+    left: 375px;
+    top: 17.33px;
+
+
+}
+
+#battery-cap {
+
+    height: 4px;
+    width: 1.3333333730697632px;
+    left: 398px;
+    top: 21px;
+
+}
+
+#Wifi-img {
+
+    height: 15px;
+    width: 21px;
+    left: 352px;
+    top: 16px;
+    border-radius: 0px;
+    position: absolute;
+}
+
+#signal-img {
+
+    left: 332.67px;
+    height: 10.666666984558105px;
+    width: 17px;
+    position: absolute;
+    top: 17.62px;
+
+}
+
+#icon-vector {
+
+    position: absolute;
+    height: 63.347999572753906px;
+    width: 73.1500015258789px;
+    left: 170px;
+    top: 195px;
+
+}
+
+input {
+
+    width: 321px;
+    height: 46px;
+    left: 45px;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    background: #F7F7F7;
+    position: absolute;
+    padding-left: 20px;
+    border: none;
+
+}
+
+#Input-text {
+
+    top: 381px;
+
+}
+
+::placeholder {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.23px;
+    text-align: left;
+    color: rgba(150, 150, 150, 1);
+
+}
+
+#Input-password {
+
+    top: 448px;
+
+}
+
+#link-Forgot {
+
+    position: absolute;
+    left: 270px;
+    top: 529px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+
+}
+
+#Button-Login {
+
+    position: absolute;
+    width: 133px;
+    height: 46px;
+    left: 140px;
+    top: 582px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 18px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    color: white;
+
+}
+
+#Paragraph-link {
+
+    position: absolute;
+    width: 240px;
+    height: 18px;
+    left: 87px;
+    top: 649px;
+    color: #969696;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 18px;
+
+}
+
+#link-Sign-up {
+
+    color: black;
+    text-decoration: none;
+
+}
+
+#Paragraph-Or {
+
+    position: absolute;
+    width: 128px;
+    left: 143px;
+    top: 729px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+}
+
+img {
+
+    position: absolute;
+}
+
+#img-google {
+
+    height: 36px;
+    width: 36px;
+    left: 134px;
+    top: 778px;
+    border-radius: 0px;
+
+}
+
+#img-icon {
+
+    top: 776.5px;
+    left: 186.5px;
+
+}
+
+#img-facebook {
+
+    top: 780px;
+    left: 242px;
+
+}
+
+#interface-second {
+    background-color: #ffffff;
+    height: 896px;
+    width: 414px;
+    display: inline-block;
+    margin-left: 33px;
+    position: absolute;
+    padding-top: 100;
+}
+
+#meditating-img {
+
+    left: 51px;
+    top: 142px;
+}
+
+
+#Eclipse1 {
+    top: 485px;
+    right: 229px;
+}
+
+#Eclipse2 {
+    top: 485px;
+    right: 202px;
+}
+
+#Eclipse3 {
+    top: 485px;
+    right: 175px;
+}
+
+#paragraph-yoga {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+    position: absolute;
+    width: 327px;
+    left: 43px;
+    top: 576px;
+
+}
+
+#button-started {
+    height: 46px;
+    width: 173px;
+    left: 121px;
+    top: 729px;
+    border-radius: 10px;
+    background: rgba(50, 50, 50, 1);
+    position: absolute;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    font-weight: 400;
+    text-align: center;
+
+}
